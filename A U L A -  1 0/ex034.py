@@ -1,3 +1,9 @@
+'''
+
+AUMENTO DE SALÁRIO EM % 
+
+'''
+
 salario = float(input('Digite o valor do seu salário: '))
 
 if(salario<=1250):
